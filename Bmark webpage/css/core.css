@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 1170px;
+    height: 100%;
+    margin: 0 auto;
+}
+.wrapper {
+    font: 16px 'Catamaran', sans-serif;
+    font-weight: normal;
+}
+h2 {
+    font-size: 46px;
+    line-height: 60px;
+}
+.button {
+    padding: 21px 51px;
+    display: inline-block;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.button.red {
+    background-color: #D22238;
+}
+.button.green {
+    background: #17A398;
+}

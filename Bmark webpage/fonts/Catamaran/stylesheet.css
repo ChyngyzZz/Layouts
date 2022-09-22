@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Catamaran';
+    src: url('Catamaran-Bold.eot');
+    src: url('Catamaran-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Catamaran-Bold.woff2') format('woff2'),
+        url('Catamaran-Bold.woff') format('woff'),
+        url('Catamaran-Bold.ttf') format('truetype'),
+        url('Catamaran-Bold.svg#Catamaran-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Catamaran';
+    src: url('Catamaran-Regular.eot');
+    src: url('Catamaran-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Catamaran-Regular.woff2') format('woff2'),
+        url('Catamaran-Regular.woff') format('woff'),
+        url('Catamaran-Regular.ttf') format('truetype'),
+        url('Catamaran-Regular.svg#Catamaran-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
